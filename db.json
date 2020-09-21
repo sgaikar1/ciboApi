@@ -9,6 +9,23 @@
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
   "profile": {
-    "name": "typicode"
+    "code": 200,
+    "message": "Success",
+    "data":{
+      "userId":"28718982dkms988",
+      "userName":"Santosh Gaikar",
+      "primary_number": "9823507043",
+      "secondary_number": "9829218921",
+      "createdAt" : 7382487342,
+      "updatedAt" : 3898489324,
+      "address":{
+        "line1":"205, Sai Society, SM Road",
+        "line2":"Rambaug colony, sector 9",
+        "landmark":"Ghatkopar post office",
+        "village" : "Ghatla",
+        "city" : "Mumbai",
+        "pincode" : "400036"
+      }
+    }
   }
 }
